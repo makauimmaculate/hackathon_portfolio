@@ -28,7 +28,7 @@ The website allows visitors to:
 
 •	HTML5 - For the structuring the webcontent.
 
-•	CSS - For designing the website making it appealing and resposnive. -Javascript - For making the website mobile version be accesible through the menu bar toogle.
+•	CSS - For designing the website making it appealing and resposnive.
 
 •	Formspree - For handling contact form submissions. (No PHP, Javascript or any backend code required. ). It's very easy to get started and it's free.
    Netifly - For hosting the website.
