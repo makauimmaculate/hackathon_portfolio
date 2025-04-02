@@ -1,7 +1,6 @@
 **My-Portfolio**
 
 This is a personal portfolio developed by Immaculate Mueni that allows people to know more about Me and my work. You can view live site visit at http://immacualateportfolio.netlify.app
-**
 
 
 Project Overview**
@@ -9,7 +8,7 @@ Project Overview**
 The website allows visitors to:
 
 •	Know more about my Educational background, skills and projects i have previously worked on.
-•	It allows download my resume.
+•	It allows download my CV.
 •	Allows users to contact me via the contact form which sends direct messages to my personal email where we can interact.
 
 **The website is build using:**
