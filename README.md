@@ -21,6 +21,7 @@ The website allows visitors to:
 
 •	It has a simple navigation bar for desktop and pc users and a simple navigation menu for mobile device users ensuring great user experience.
 •	It has a Resume download button where you anyone interested can download it.
+
 •	It has a contact form where interested vistors can contact me. The email is sent directly to my Email account thanks to Formspree.
 •	It also contains social links of various platform where you can get in touch with me.
 
